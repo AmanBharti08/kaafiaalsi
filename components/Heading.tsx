@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 export default function () {
   return (
-    <div className="flex flex-col gap-1 lg:flex-row w-full xl:text-[300px] lg:text-[220px] md:text-[180px] text-[80px] xs:text-[60px] font-extrabold tracking-wider">
+    <div className="flex flex-col gap-1 lg:flex-row w-full xl:text-[270px] lg:text-[210px] md:text-[180px] text-[80px] xs:text-[60px] font-extrabold tracking-wider">
       <div className="bg-red-700 p-2 lg:w-1/2 w-full flex items-center justify-start text-amber-100">
         <motion.span
           className=""
