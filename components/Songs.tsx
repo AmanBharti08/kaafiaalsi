@@ -171,7 +171,7 @@ export default function () {
               <div
                 key={index}
                 className={`p-5`}
-                onClick={()=>openSingles(index)}
+                onClick={()=>openSingles()}
               >
                 <SingleCard song={song}/>
               </div>
